@@ -14,3 +14,4 @@
   - [Pt.1: Follow the Gap](./auton_gap.md)
   - [Pt.2: Pure Pursuit](./auton_pp.md)
 - [Chapter 6: Onwards](./onwards.md)
+- [FAQs](./faqs.md)
